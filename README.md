@@ -1,1 +1,1 @@
-# Cloud_Databases_Relational_RDS_for_Biounformatics
+# Cloud_Databases_Relational_RDS_for_Bioinformatics
